@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="main_activity_round_button_text_teacher">Как учитель</string>
+    <string name="main_activity_round_button_text_student">Как ученик</string>
+    <string name="main_activity_round_title_text_teacher">как вы хотите использовать приложение?</string>
+    <string name="main_activity_button_text_enter">продолжить</string>
+    <string name="import_button_text">загрузить</string>
+    <string name="share_button_text">поделиться</string>
+
+    <string name="teacher_settings_import_data_text">загрузить базу данных</string>
+    <string name="teacher_settings_import_button">import</string>
+    <string name="student_settings_change_mode_text">вы не ученик?</string>
+    <string name="delete_button_text">выйти</string>
+    <string name="save_button_text">сохранить</string>
+    <string name="student_settings_id_edit_text">москвёнок</string>
+    <string name="student_settings_surname_edit_text">ФИО</string>
+
+    <string name="teacher_settings_share_data_text">поделиться данными</string>
+
+
+    <string name="teacher_settings_export_button">экспорт</string>
+    <string name="teacher_settings_change_mode_text">вы не учитель?</string>
+    <string name="no_name_text">имя не введено</string>
+    <string name="no_code_text">код не введён</string>
+    <string name="student_main_page_button_text">настройки</string>
+    <string name="teacher_menu_clear_button_text">Очистить</string>
+    <string name="teacher_menu_settings_button_text">Настройки</string>
+    <string name="teacher_menu_share_button_text">Поделиться</string>
+    <string name="student_menu_button_settings_text">Настройки</string>
+    <string name="settings_delete_dialog_text">Вся информация будет удалена. Вы точно хотите продолжить?</string>
+    <string name="settings_delete_dialog_title">удалить</string>
+    <string name="teacher_out_list_element_name_text">имя</string>
+    <string name="teacher_out_list_element_name_text_error">Ученик не найден в базе</string>
+    <string name="cell_text_enter">вход</string>
+    <string name="cell_text_corpus">ГБОУ Школа № 1852</string>
+    <string name="teacher_settings_toast_text_sd_card_access">sd карта недоступна</string>
+    <string name="teacher_settings_toast_text_file_format">необходим файл формата .xls</string>
+    <string name="teacher_settings_toast_text_import_error">ошибка загрузки</string>
+    <string name="teacher_settings_toast_text_import_permission">чтобы открыть файл нужно разрешение</string>
+    <string name="teacher_toast_text_invalid_qr_code">Неправильный qr код: \"</string>
+
+    <!-- dialog_accept_policy.xml -->
+    <string name="dialog_accept_policy_title">Политика конфиденциальности</string>
+    <string name="dialog_accept_policy_text">Политика конфиденциальности
+        \nМы уважаем конфиденциальность информации и не будем собирать какую-либо личную информацию. Наша Политика конфиденциальности описывает, как мы собираем и используем вашу информацию.
+        \n- Это приложение не хранит/не собирает/не отправляет/не управляет никакими личными данными любого рода. Все материалы, созданные с помощью этого приложения, принадлежат исключительно вам (пользователю).
+        \n- По вашему запросу (пользователя) это приложение отправляет созданные в приложении файлы в желаемое место назначения, также выбранное вами (пользователем), такое как электронная почта, социальные сети, другое приложение или другие цели, выбранные вами (пользователем). В рамках этой операции это приложение также не хранит/не собирает/не отправляет/не управляет никакими личными данными любого рода.
+        \nКакую информацию мы собираем и как мы ее используем:
+        \n1. ДОСТУП К КАМЕРЕ
+        \nЭто разрешение поможет нам получить изображение с вашей камеры (сделать снимок с камеры) сделать снимок с камеры для ввода QR кода, для того чтобы просканировать вошедшего в школу ученика по его сгенерированному в этом приложении коду.
+        \n2.ДОСТУП К ХРАНИЛИЩУ (Внутренняя память телефона)
+        \nЭто разрешение помогает нам получить доступ к вашему хранилищу для импортирования оттуда файлов (которые вы сами выберете), в которых будет содержаться информация о сканируемых QR кодах.</string>
+    <string name="dialog_accept_policy_accept_button">Я прочитал и принимаю это</string>
+
+
+</resources>
